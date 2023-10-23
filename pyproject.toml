@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "agentflow"
+version = "0.0.1"
+description = "A lightweight, event-driven framework designed for building and managing multi-agent systems."
+authors = []
+license = "MIT"
+readme = "README.md"
+homepage = "https://agentflow.dev"
+documentation = "https://agentflow.dev"
+repository = "https://github.com/codeforge-ai/agentflow"
+keywords = ["LLM", "NLP", "event", "multi-agent"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^2.4.2"
+websockets = "^11.0.3"
+gradio = "^3.50.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
