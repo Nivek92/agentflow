@@ -11,7 +11,7 @@ To install AgentFlow, you can use pip:
 
 ## Usage
 
-To get started with AgentFlow please refer to [https://agentflow.dev/docs/].
+To get started with AgentFlow please refer to our [docs](https://agentflow.dev/docs/).
 
 ## Examples
 
